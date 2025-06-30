@@ -3,5 +3,5 @@ In this task, I implemented decision tree and random forest models on the Heart 
 
 Tools Used:
 - Python, Pandas, NumPy
-- Matplotlib, Seaborn –>  for visualizations
-- Scikit-learn –> for Decision Tree, Random Forest, and evaluation metrics
+- Matplotlib, Seaborn ->  for visualizations
+- Scikit-learn -> for Decision Tree, Random Forest, and evaluation metrics
